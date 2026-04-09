@@ -1,0 +1,14 @@
+torch
+torchvision
+opencv-python
+numpy
+scikit-learn
+matplotlib
+librosa
+grad-cam
+fastapi
+uvicorn
+python-multipart
+pillow
+PyMuPDF
+python-docx
